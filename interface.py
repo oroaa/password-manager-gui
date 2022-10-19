@@ -57,4 +57,5 @@ while True:
 
     if event == sg.WIN_CLOSED:
         break
+
 window.close()
