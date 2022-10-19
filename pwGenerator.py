@@ -17,7 +17,6 @@ def generate_pw(length: int, lowercase: bool, uppercase: bool, numbers: bool,
         selectionpool += "      "
 
     selectionpool_length = len(selectionpool)
-
     password = ""
 
     for _ in range(length):
