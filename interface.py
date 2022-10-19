@@ -55,7 +55,6 @@ while True:
                                      values["-SYMBOLS-"], values["-SPACE-"])
         window["-TEXTBOX-"].update(pw)
 
-
     if event == sg.WIN_CLOSED:
         break
 window.close()
