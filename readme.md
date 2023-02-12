@@ -8,7 +8,7 @@
 - Email, Username, and Passwords are encrypted using SHA256 and Fernet
 - Password generator for creating completley random and secure passwords
 - Embedded password stregth algorthm to test your utilized passwords
-- SQLite database file export for portability 
+- SQLite database file export for portabilit
 
 ## Images
 ### Login 
