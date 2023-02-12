@@ -32,7 +32,7 @@
 <img src="https://github.com/eospo/password-generator-gui/blob/main/images/SCR-20230212-4cv.jpeg?raw=true"  width="50%" height="50%">
 
 ### Ecrypted SQLite Database Entries
-<img src="https://github.com/eospo/password-generator-gui/blob/main/images/SCR-20230212-4ez.png?raw=true"  width="50%" height="50%">
+<img src="https://github.com/eospo/password-generator-gui/blob/main/images/SCR-20230212-4ez.png?raw=true"  width="100%" height="100%">
 
 ## Tech
 PyPasswordManager uses a number of open source projects to work properly:
