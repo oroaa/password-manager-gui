@@ -55,7 +55,9 @@ pip install cryptography
 pip install zxcvbn
 pip install Pyperclip
 ```
-Development was done on MacOS, remains untested for Windows machines.
+## Final Notes
+- GUI development was done on MacOS, remains untested for Windows machines.
+- If cloned, the existing database' master password is 'password'. To start a new database simply delete the 'passwordVault.db' file, it'll make a new .db file once the program is ran and a new master password is created.
 
 ## License
 
